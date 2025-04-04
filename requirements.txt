@@ -26,3 +26,10 @@ python-dotenv==1.0.0 # Gestion des variables d'environnement
 # === Optionnel (SI besoin d'API avancée) ===
 Flask-RESTful==0.3.10
 Flask-JWT-Extended==4.5.2
+
+flask==2.0.1
+flask-login==0.5.0
+flask-sqlalchemy==2.5.1
+pyotp==2.6.0
+cryptography==35.0.0
+gunicorn==20.1.0
